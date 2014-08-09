@@ -4,3 +4,7 @@
 /tmp
 /Plugin
 /vendor
+
+#composer
+composer.lock
+*.lock
